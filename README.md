@@ -38,9 +38,9 @@ Open console and use `npm install discord.js`
 
 # Making it 24/7
 
-The code launches a http server, the adress of the server will be shown above the console
-Copy the adress and add a http monitor in UPTIMEROBOT
-Follow the instructions given there and complete instructions
+The code launches a http server, the adress of the server will be shown above the console. 
+Copy the adress and add a http monitor in UPTIMEROBOT. 
+Follow the instructions given there and complete instructions.
 
 
 ## Notes
