@@ -1,4 +1,4 @@
 {
 	"BOT_TOKEN" : "",
-	"BANNED_WORDS" : [""] 
+	"FILTER_WORDS" : ["fuck" ,"crap" ] 
 }
