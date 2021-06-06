@@ -1,0 +1,9 @@
+//code for temp mute role add it below the embed part 
+//make sure that your server have a role with the name "Muted"
+//if a custome muted role,  replace the MUTED with the custom role name
+
+var role= message.guild.roles.cache.find(role => role.name === "Muted"); //can change the role name
+message.member.roles.add(role);
+setTimeout(() => {
+  message.member.roles.remove(role);
+}, 10000); //can change the value(1000 millisecond = 1 second), Default = 10 sec
