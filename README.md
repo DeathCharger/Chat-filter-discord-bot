@@ -14,7 +14,7 @@
 
 ## Dependencies 
  > Install node.js [Select add to path]
- Open console and use `npm install discord.js`
+Open console and use `npm install discord.js`
 
 # How to run the bot
 
